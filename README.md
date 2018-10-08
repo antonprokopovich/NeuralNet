@@ -4,6 +4,6 @@
 
 Код нейронной сети находится в файле [neuralnet.py](https://github.com/antonprokopovich/neuralnet/blob/master/neuralnet.py). В коде подробно прокомментированы этапы реализации модели, включая весь лежащий в основе математический аппарат.
 
-Обучающая и тестовая выбоки получены из базы данных рукописных цифр MNIST. Функции загружающие данные расположены в файле [mnist_loader.py](https://github.com/antonprokopovich/neuralnet/blob/master/mnist_loader.py).
+Обучающая и тестовая выбоки получены из базы данных изображений рукописных цифр MNIST. Функции загружающие данные расположены в файле [mnist_loader.py](https://github.com/antonprokopovich/neuralnet/blob/master/mnist_loader.py).
 
 Файл используется для запуска процесса обучения и последующей оценки качества работы нейросети на обучающей и тестовой выборках соответственно – [test.py](https://github.com/antonprokopovich/neuralnet/blob/master/test.py).
