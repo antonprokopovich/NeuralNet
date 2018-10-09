@@ -6,4 +6,4 @@
 
 Обучающая и тестовая выбоки получены из базы данных изображений рукописных цифр MNIST. Функции загружающие данные расположены в файле [mnist_loader.py](https://github.com/antonprokopovich/neuralnet/blob/master/mnist_loader.py).
 
-Файл используется для запуска процесса обучения и последующей оценки качества работы нейросети на обучающей и тестовой выборках соответственно – [test.py](https://github.com/antonprokopovich/neuralnet/blob/master/test.py).
+Файл [test.py](https://github.com/antonprokopovich/neuralnet/blob/master/test.py) используется для запуска процесса обучения и последующей оценки качества работы нейросети на обучающей и тестовой выборках соответственно.
